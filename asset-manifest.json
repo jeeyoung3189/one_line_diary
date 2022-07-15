@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jeeyoung3189/one_line_diary.git/static/css/main.09f5bc6e.css",
-    "main.js": "/jeeyoung3189/one_line_diary.git/static/js/main.01420fab.js",
-    "static/js/787.0f624d19.chunk.js": "/jeeyoung3189/one_line_diary.git/static/js/787.0f624d19.chunk.js",
-    "index.html": "/jeeyoung3189/one_line_diary.git/index.html",
-    "main.09f5bc6e.css.map": "/jeeyoung3189/one_line_diary.git/static/css/main.09f5bc6e.css.map",
-    "main.01420fab.js.map": "/jeeyoung3189/one_line_diary.git/static/js/main.01420fab.js.map",
-    "787.0f624d19.chunk.js.map": "/jeeyoung3189/one_line_diary.git/static/js/787.0f624d19.chunk.js.map"
+    "main.css": "/one_line_diary/static/css/main.09f5bc6e.css",
+    "main.js": "/one_line_diary/static/js/main.3ca0f6a3.js",
+    "static/js/787.0f624d19.chunk.js": "/one_line_diary/static/js/787.0f624d19.chunk.js",
+    "index.html": "/one_line_diary/index.html",
+    "main.09f5bc6e.css.map": "/one_line_diary/static/css/main.09f5bc6e.css.map",
+    "main.3ca0f6a3.js.map": "/one_line_diary/static/js/main.3ca0f6a3.js.map",
+    "787.0f624d19.chunk.js.map": "/one_line_diary/static/js/787.0f624d19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09f5bc6e.css",
-    "static/js/main.01420fab.js"
+    "static/js/main.3ca0f6a3.js"
   ]
 }
